@@ -158,7 +158,7 @@
 - Just in case the “New Game” button of the title menu isn’t active:
 	- `Naninovel > Configuration > Scripts`, 
 	- The "Start Game Script "must be equal to the name of the created script.
-    (Pasted%20image%2020250716130432.png)
+    !(Pasted%20image%2020250716130432.png)
 
   
 
