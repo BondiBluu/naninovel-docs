@@ -154,7 +154,7 @@
 	    	- Press the plus button (+) on the list to add a new record
 			- Drag and drop the script asset to the list
 			- Can be drag dropped in batches (multiple assets or even a folder containing assets)
-			![[Pasted image 20250716130403.png]]
+			![As seen here: ](Pasted%20image%2020250716130403)
 - Just in case the “New Game” button of the title menu isn’t active:
 	- `Naninovel > Configuration > Scripts`, 
 	- The "Start Game Script "must be equal to the name of the created script.
